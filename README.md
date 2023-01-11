@@ -1,6 +1,8 @@
+<div align="center">
+  
 # 👋 Hi! I'm...
 
-<img width="100%" src="./images/Banner.png">
+<img width="80%" src="./images/Banner.png">
 
 ![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianogriffa&show_icons=true&theme=transparent)
 
@@ -14,4 +16,4 @@
   <a href="https://www.youtube.com/channel/UCNXJlH_ecGJzt2QJUYhquIQ"><img src="https://img.shields.io/badge/twitch-purple.svg?&style=for-the-badge&logo=twitch&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
+</div>

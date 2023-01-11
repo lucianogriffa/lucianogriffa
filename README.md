@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luciano!
 
-<img width="100%" src="./Banner.png">
+<img width="100%" src="./images/Banner.png">
 
 ![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianogriffa&show_icons=true&theme=transparent)
 

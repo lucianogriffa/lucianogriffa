@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi! I'm...
+# 👋 Hi!
 
 <img width="80%" src="./images/Banner.png">
 

@@ -21,7 +21,7 @@
 ![VSCode](https://img.shields.io/badge/vscode-black.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![GIT](https://img.shields.io/badge/git-black.svg?&style=for-the-badge&logo=git&logoColor=orange)
 
-## Learn
+## Languages Learning
 
 ![GNU Bash](https://img.shields.io/badge/GNUBash-black.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=blue)

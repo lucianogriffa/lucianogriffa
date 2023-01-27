@@ -5,7 +5,6 @@
 
 - 👨🏽‍💻 I am currently a software engineering student in my 1st year.
 - 🤔 My interests are web and mobile programming, pentesting, Linux, Python, AI, etc.
-- 💼 Working on finedevs.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 Email me if you have any questions.
 

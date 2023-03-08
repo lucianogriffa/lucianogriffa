@@ -19,14 +19,14 @@
 ![Expo](https://img.shields.io/badge/expo-black.svg?&style=for-the-badge&logo=expo&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-black.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![GIT](https://img.shields.io/badge/git-black.svg?&style=for-the-badge&logo=git&logoColor=orange)
+![NodeJs](https://img.shields.io/badge/node.js-black.svg?&style=for-the-badge&logo=node.js&logoColor=green)
+![ExpressJs](https://img.shields.io/badge/express-black.svg?&style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-black.svg?&style=for-the-badge&logo=postgresql&logoColor=blue)
 
 ## Languages Learning
 
 ![GNU Bash](https://img.shields.io/badge/GNUBash-black.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=blue)
-![Node.Js](https://img.shields.io/badge/node.js-black.svg?&style=for-the-badge&logo=node.js&logoColor=green)
-![Express.Js](https://img.shields.io/badge/express-black.svg?&style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-black.svg?&style=for-the-badge&logo=postgresql&logoColor=blue)
 
 ## My GitHub Stats
 ![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianogriffa&show_icons=true&theme=transparent)
